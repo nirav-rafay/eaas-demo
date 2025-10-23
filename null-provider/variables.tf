@@ -1,5 +1,5 @@
 variable "itest1" {
-  description = "test 1"
+  description = "test 1 desc"
   default     = "default-test1-value"
 }
 
